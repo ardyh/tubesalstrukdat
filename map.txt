@@ -1,8 +1,8 @@
 #Xa##bbb
-XaXabXbX
+X1XabX2X
 aXa##bbb
 #a######
 #c######
 cXc##ddd
-XcXcdXdX
+X3XcdX4X
 #Xc##ddd
